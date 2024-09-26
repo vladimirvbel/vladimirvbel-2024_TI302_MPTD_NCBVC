@@ -1,4 +1,11 @@
-
+/* ITESS-TICS
+   Agosto-Diciembre 2024
+   MTPD
+   Prof: Montecillo
+   Programador: Nam_chul Bruno Vázquez Coronado
+   Descripción: Arreglos
+   Fecha: 19/09/2024
+*/
 package unidad1.proglineal;
 
 public class NumeroOpt {
@@ -23,6 +30,11 @@ public class NumeroOpt {
             }
         }
         return min >= 0 ? -1: index;
+    }    public void pruebaCociente(){
+        
+    }
+    public void pivotear(){
+        
     }
 
     @Override
